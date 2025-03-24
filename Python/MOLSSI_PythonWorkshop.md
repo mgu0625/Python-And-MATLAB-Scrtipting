@@ -14,7 +14,7 @@ For Anyone Who Never Used Spyder Before:
 
 ----
 
-# Lesson 0: Assigning Variables and Data Types
+# Lesson 1: Assigning Variables and Data Types
 
 (Link to Lesson 0)[https://education.molssi.org/python_scripting_cms/01-introduction/index.html]
 
@@ -156,8 +156,9 @@ Example:
 
 Output: `[-56.0656, -11.296800000000001]`
 
+----------
 
-
+# Lesson 2: File Parsing
 
 
 
