@@ -3,7 +3,7 @@
 Spyder Editor
 
 MOLSSI Workshop Practice Script
-Lesson 0
+Lesson 1
 """
 
 deltaH = -541.5 #kJ/mole
