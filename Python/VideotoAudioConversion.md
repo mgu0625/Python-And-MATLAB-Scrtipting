@@ -49,6 +49,9 @@ except ffmpeg.Error as e:
   print("error details:", e.stderr.decode())
 ```
 
+4. Run the script
+`python scriptname.py`
+
 Breakdown:
 - `vn`: "video none" aka, no video included in output file
 - `acadec='libmp3lame': use the LAME MP3 encoder
